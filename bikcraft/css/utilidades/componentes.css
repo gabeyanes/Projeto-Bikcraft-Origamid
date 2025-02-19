@@ -8,6 +8,8 @@
 }
 
 .botao {
+    border: none;
+    cursor: pointer;
     color: #332200;
     display: inline-block;
     padding: 16px 32px;
